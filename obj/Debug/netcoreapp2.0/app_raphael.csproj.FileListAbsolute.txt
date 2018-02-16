@@ -1,0 +1,10 @@
+c:\app_raphael\bin\Debug\netcoreapp2.0\app_raphael.deps.json
+c:\app_raphael\bin\Debug\netcoreapp2.0\app_raphael.runtimeconfig.json
+c:\app_raphael\bin\Debug\netcoreapp2.0\app_raphael.runtimeconfig.dev.json
+c:\app_raphael\bin\Debug\netcoreapp2.0\app_raphael.dll
+c:\app_raphael\bin\Debug\netcoreapp2.0\app_raphael.pdb
+c:\app_raphael\obj\Debug\netcoreapp2.0\app_raphael.csproj.CoreCompileInputs.cache
+c:\app_raphael\obj\Debug\netcoreapp2.0\app_raphael.AssemblyInfoInputs.cache
+c:\app_raphael\obj\Debug\netcoreapp2.0\app_raphael.AssemblyInfo.cs
+c:\app_raphael\obj\Debug\netcoreapp2.0\app_raphael.dll
+c:\app_raphael\obj\Debug\netcoreapp2.0\app_raphael.pdb
